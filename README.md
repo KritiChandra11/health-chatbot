@@ -74,6 +74,7 @@ To add new health topics:
 - Integration with health APIs
 ## Screenshots
 
-![Home](assets/home.jpeg)
 
-![Result](assets/result.jpeg)
+![Home](home.jpg)
+
+![Result](result.jpg)
