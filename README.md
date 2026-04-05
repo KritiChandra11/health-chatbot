@@ -72,3 +72,8 @@ To add new health topics:
 - Advanced NLP for better query matching
 - History and user profiles
 - Integration with health APIs
+## Screenshots
+
+![Home](assets/home.jpeg)
+
+![Result](assets/result.jpeg)
