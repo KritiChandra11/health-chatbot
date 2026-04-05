@@ -1,0 +1,43 @@
+{
+  "headache": {
+    "advice": "Headaches can have various causes including stress, dehydration, or caffeine withdrawal.",
+    "recommendations": [
+      "Stay hydrated and drink plenty of water",
+      "Rest in a quiet, dark environment",
+      "Apply a cold or warm compress",
+      "Practice relaxation techniques",
+      "Consider over-the-counter pain relief if needed"
+    ]
+  },
+  "insomnia": {
+    "advice": "Sleep difficulties can be managed through better sleep hygiene and lifestyle changes.",
+    "recommendations": [
+      "Maintain a consistent sleep schedule",
+      "Avoid screens 30 minutes before bedtime",
+      "Limit caffeine intake, especially after 2 PM",
+      "Create a cool, dark sleeping environment",
+      "Try relaxation techniques like deep breathing"
+    ]
+  },
+  "anxiety": {
+    "advice": "Anxiety can be managed through various techniques and lifestyle changes.",
+    "recommendations": [
+      "Practice deep breathing exercises",
+      "Regular physical exercise",
+      "Limit caffeine and alcohol",
+      "Maintain social connections",
+      "Consider meditation or mindfulness practices",
+      "Consult a mental health professional if needed"
+    ]
+  },
+  "fever": {
+    "advice": "A fever is typically your body's way of fighting an infection.",
+    "recommendations": [
+      "Stay hydrated by drinking plenty of fluids",
+      "Rest and allow your body to recover",
+      "Use cool compresses on forehead",
+      "Monitor temperature regularly",
+      "Consult a doctor if fever persists beyond 3 days"
+    ]
+  }
+}
